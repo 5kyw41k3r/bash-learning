@@ -25,7 +25,7 @@ You might be a bit confused as to how to use this repository, so I advise you to
 * ELIF Conditional Statement
 * AND Operator
 * OR Operator
-* CASE Conditional Statement (Incomplete explanation)
+* CASE Conditional Statement
 * Loops
 * WHILE Loop
 * UNTIL Loop
