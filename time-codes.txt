@@ -1,0 +1,32 @@
+0:55 Hello Bash Scripting
+5:25 Redirect to file
+8:49 Comments
+11:49 HereDoc
+14:01 IF Conditional Statement
+16:47 IF-ELSE Conditional Statement
+19:00 ELIF Conditional Statement
+21:18 AND Operator
+26:21 OR Operator
+29:10 CASE Conditional Statement (Incomplete explanation)
+29:47 Loops
+30:19 WHILE Loop
+33:54 UNTIL Loop
+36:20 FOR Loop
+39:44 BREAK and CONTINUE Statements
+45:29 Script input (STDIN)
+55:58 Script output (STDOUT and STDERR)
+1:01:40 Pipes (Send output from one script to another script)
+1:05:53 Strings processing
+1:15:39 Numbers and Arithmetic
+1:20:56 Convert from Hexadecimal to Decimal Numbers
+1:23:07 DECLARE command
+1:28:27 Arrays
+1:35:06 Functions
+1:43:10 Files and directories
+1:58:42 Sending email via script
+2:05:20 Curl
+2:12:44 Professional Menus
+2:31:12 grep
+2:41:37 awk
+2:51:54 sed
+3:02:24 Debugging

@@ -1,0 +1,1 @@
+Note that the line read file can be called standerd input due to the stdin function
